@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\Main.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\functions\Cart.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\functions\CartItem.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\functions\Order.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\functions\Product.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\functions\Review.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\functions\User.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\functions\Voucher.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\managers\CartManager.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\managers\OrderManager.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\managers\ProductManager.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\managers\UserManager.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\managers\VoucherManager.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\Menu\MenuUI.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\utilities\FileHandler.java
+C:\Users\ASUS\Documents\BX Files\BX Intellij\E-Commerce\src\utilities\InputValidator.java
